@@ -3785,3 +3785,7 @@ Primary use:	Showcase Portfolio
 		display:block;
 	}
 }
+
+.hero-title {
+	opacity: 0;
+}
